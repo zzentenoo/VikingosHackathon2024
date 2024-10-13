@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Dinero",
+        "def": "Medio de intercambio comúnmente aceptado para la compra de bienes y servicios."
+    },
+    {
+        "name": "Interés",
+        "def": "Costo de pedir prestado dinero o rendimiento de una inversión expresado como un porcentaje."
+    },
+    {
+        "name": "Inversión",
+        "def": "Colocación de recursos, generalmente dinero, en un activo con la expectativa de obtener un rendimiento."
+    },
+    {
+        "name": "Acciones",
+        "def": "Títulos que representan una parte de la propiedad de una empresa y representan una reclamación sobre sus activos y ganancias."
+    },
+    {
+        "name": "Bonos",
+        "def": "Instrumentos de deuda emitidos por entidades (gobiernos, corporaciones) que representan un préstamo que el emisor se compromete a devolver con intereses."
+    },
+    {
+        "name": "Dividendo",
+        "def": "Parte de las ganancias de una empresa que se distribuye a sus accionistas."
+    },
+    {
+        "name": "Capital",
+        "def": "Recursos financieros que una persona o empresa puede utilizar para generar ingresos."
+    },
+    {
+        "name": "Activo",
+        "def": "Cualquier recurso propiedad de una entidad que tiene valor y puede generar beneficios futuros."
+    },
+    {
+        "name": "Pasivo",
+        "def": "Obligaciones financieras de una entidad, que representan deudas que deben pagarse en el futuro."
+    },
+    {
+        "name": "Balance",
+        "def": "Estado financiero que muestra la situación de activos, pasivos y capital de una entidad en un momento determinado."
+    },
+    {
+        "name": "Flujo de caja",
+        "def": "Movimiento de efectivo dentro y fuera de una empresa, reflejando su capacidad para generar efectivo."
+    },
+    {
+        "name": "Crédito",
+        "def": "Capacidad de una persona o entidad para obtener bienes o servicios antes de realizar el pago, confiando en que se pagarán en el futuro."
+    },
+    {
+        "name": "Déficit",
+        "def": "Situación en la que los gastos de una entidad superan sus ingresos."
+    },
+    {
+        "name": "Superávit",
+        "def": "Situación en la que los ingresos de una entidad superan sus gastos."
+    },
+    {
+        "name": "Blockchain",
+        "def": "Tecnología que permite la transferencia de datos y valores de forma segura y descentralizada, utilizando criptografía."
+    },
+    {
+        "name": "Criptomoneda",
+        "def": "Moneda digital que utiliza criptografía para asegurar transacciones y controlar la creación de nuevas unidades."
+    },
+    {
+        "name": "Riesgo",
+        "def": "Posibilidad de que ocurra un evento que impacte negativamente el rendimiento de una inversión."
+    },
+    {
+        "name": "Diversificación",
+        "def": "Estrategia de inversión que consiste en distribuir los recursos en diferentes activos para reducir el riesgo."
+    },
+    {
+        "name": "Mercado de valores",
+        "def": "Plataforma donde se compran y venden acciones y otros instrumentos financieros."
+    },
+    {
+        "name": "ETF",
+        "def": "Fondo de inversión que se comercializa en bolsas de valores, como una acción, y que agrupa diversos activos."
+    },
+    {
+        "name": "Derivado",
+        "def": "Instrumento financiero cuyo valor se basa en el precio de un activo subyacente."
+    },
+    {
+        "name": "Opciones",
+        "def": "Contratos que otorgan al comprador el derecho, pero no la obligación, de comprar o vender un activo a un precio específico antes de una fecha determinada."
+    },
+    {
+        "name": "Fondo de inversión",
+        "def": "Vehículo que reúne dinero de varios inversores para invertir en una cartera diversificada de activos."
+    },
+    {
+        "name": "Análisis técnico",
+        "def": "Método de evaluación de inversiones basado en el estudio de datos históricos de precios y volúmenes."
+    },
+    {
+        "name": "Análisis fundamental",
+        "def": "Método de evaluación de inversiones que implica el análisis de la situación financiera y la salud económica de una empresa."
+    },
+    {
+        "name": "Apreciación",
+        "def": "Incremento del valor de un activo con el tiempo."
+    },
+    {
+        "name": "Depreciación",
+        "def": "Disminución del valor de un activo a lo largo del tiempo."
+    },
+    {
+        "name": "Tasa de rendimiento",
+        "def": "Medida del rendimiento de una inversión, expresada como un porcentaje del costo inicial."
+    }
+]
